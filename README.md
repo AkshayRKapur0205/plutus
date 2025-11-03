@@ -1,2 +1,2 @@
-# plutus
-Prosperity
+# Plutus
+
